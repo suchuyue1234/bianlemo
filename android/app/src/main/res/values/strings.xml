@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">便了么</string>
+    <string name="title_activity_main">便了么</string>
+    <string name="package_name">com.bianlemo.app</string>
+    <string name="custom_url_scheme">com.bianlemo.app</string>
+</resources>

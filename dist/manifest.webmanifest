@@ -1,0 +1,1 @@
+{"name":"便了么","short_name":"便了么","description":"你的肠道健康管家","start_url":"./","display":"standalone","background_color":"#0F1420","theme_color":"#0F1420","lang":"zh-CN","scope":"./","orientation":"portrait","icons":[{"src":"icon.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any"},{"src":"icon.svg","sizes":"512x512","type":"image/svg+xml","purpose":"maskable"}]}
